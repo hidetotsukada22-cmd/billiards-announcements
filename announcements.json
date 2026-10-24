@@ -1,3 +1,10 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "ja": "お知らせ連携の動作確認",
+      "en": "Announcement delivery test",
+      "ko": "공지 전달 테스트",
+      "zh": "公告传送测试"
+    }
+  ]
 }

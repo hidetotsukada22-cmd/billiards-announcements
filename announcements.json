@@ -1,3 +1,10 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "ja": "お知らせ表示の動作確認中です。通常どおりプレーできます。",
+      "en": "We are currently testing the notification display functionality. You can play as usual.",
+      "ko": "알림 표시 동작 확인 중입니다. 평소처럼 놀 수 있습니다.",
+      "zh": "我们目前正在测试通知显示功能。您可以照常进行游戏。"
+    }
+  ]
 }

@@ -1,6 +1,16 @@
 {
   "announcements": [
     {
+      "ja": "日時・時差表示のテストです。実際のイベントではありません。言語を切り替えて日時をご確認ください。",
+      "en": "This is a test of the date, time, and time zone display. It is not an actual event. Please switch languages ​​to check the date and time.",
+      "ko": "일시·시차 표시의 테스트입니다. 실제 이벤트가 아닙니다. 언어를 전환하여 날짜와 시간을 확인하십시오.",
+      "zh": "这是日期、时间和时区显示测试，并非实际事件。请切换语言以查看日期和时间。",
+      "date_ja": "2027年1月1日 00:30 JST",
+      "date_en": "1 Jan 2027, 00:30 JST / 31 Dec 2026, 15:30 UTC",
+      "date_ko": "2027년 1월 1일 00:30 KST",
+      "date_zh": "2026年12月31日 23:30 北京时间 (UTC+8)"
+    },
+    {
       "ja": "お知らせ表示の動作確認中です。通常どおりプレーできます。",
       "en": "We are currently testing the notification display functionality. You can play as usual.",
       "ko": "알림 표시 동작 확인 중입니다. 평소처럼 놀 수 있습니다.",

@@ -5,6 +5,16 @@
       "en": "We are currently testing the notification display functionality. You can play as usual.",
       "ko": "알림 표시 동작 확인 중입니다. 평소처럼 놀 수 있습니다.",
       "zh": "我们目前正在测试通知显示功能。您可以照常进行游戏。"
+    },
+    {
+      "ja": "日時表示の動作確認です。実際のイベントではありません。",
+      "en": "This is a test to confirm the functionality of the date and time display. It is not an actual event.",
+      "ko": "일시 표시의 동작 확인입니다. 실제 이벤트가 아닙니다.",
+      "zh": "这是一次测试，旨在确认日期和时间显示功能是否正常。这并非实际事件。",
+      "date_ja": "2027年1月1日 00:30 JST",
+      "date_en": "1 Jan 2027, 00:30 JST / 31 Dec 2026, 15:30 UTC",
+      "date_ko": "2027년 1월 1일 00:30 KST",
+      "date_zh": "2026年12月31日 23:30 北京时间 (UTC+8)"
     }
   ]
 }

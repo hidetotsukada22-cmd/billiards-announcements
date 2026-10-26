@@ -24,8 +24,26 @@
       "ko": "",
       "zh": "",
       "duration_seconds": 30,
-      "image_slot": 0,
+      "image_slot": 20,
       "image_version": "f71556966074a7ddad636cfbc25c55908e96f107"
+    },
+    {
+      "ja": "",
+      "en": "",
+      "ko": "",
+      "zh": "",
+      "duration_seconds": 30,
+      "image_slot": 21,
+      "image_version": "26985944ee3964af38b698bb3b88a8564d0e4dbd"
+    },
+    {
+      "ja": "",
+      "en": "",
+      "ko": "",
+      "zh": "",
+      "duration_seconds": 30,
+      "image_slot": 22,
+      "image_version": "88f9768ed3933043d9946cec43c3020cf368cd96"
     }
   ]
 }

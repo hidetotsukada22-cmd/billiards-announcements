@@ -6,8 +6,17 @@
       "ko": "",
       "zh": "",
       "duration_seconds": 30,
-      "image_slot": 20,
+      "image_slot": 0,
       "image_version": "f71556966074a7ddad636cfbc25c55908e96f107"
+    },
+    {
+      "ja": "",
+      "en": "",
+      "ko": "",
+      "zh": "",
+      "duration_seconds": 30,
+      "image_slot": 1,
+      "image_version": "172427c47fc815169bef10efe455e030c0b1663c"
     }
   ]
 }
